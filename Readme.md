@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Supervised Learning](https://github.com/Sanepunk/ML);
+- 👨🏽‍💻 I’m working on [Supervised Learning](https://github.com/Sanepunk/ML);
 - 🌱 I’m currently learning Regression and KNN; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm a sophomore in the Information Technology Department;
