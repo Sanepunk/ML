@@ -7,38 +7,30 @@ This directory contains various projects and examples related to supervised lear
 ### 1. Linear Regression
 - **Description:** Implementation of simple and multiple linear regression models.
 - **Files:**
-  - `linear_regression_simple.ipynb`
-  - `linear_regression_multiple.ipynb`
+  - `bitcoin.ipynb`
+  - `housing_prediction.ipynb`
+  - `housing_prediction_V2.ipynb`
+  - `london-housing-prediction.ipynb`
+  - `oil_gas_stoichastic_gradient_descent.ipynb`
+  - `oil_gas_prediction.ipynb`
 
 ### 2. Logistic Regression
 - **Description:** Binary classification using logistic regression.
 - **Files:**
-  - `logistic_regression.ipynb`
+  - `space_ship_using_NN.ipynb`
+  - `logistic_regression_class.ipynb`
 
-### 3. Decision Trees
-- **Description:** Building and visualizing decision tree models for classification.
+### 3. k-Nearest Neighbors (k-NN)
+- **Description:** Building and visualizing k-NN models for classification.
 - **Files:**
-  - `decision_tree_classification.ipynb`
+  - `body-mass-with-sk-learn-knn.ipynb`
 
-### 4. Support Vector Machines (SVM)
-- **Description:** Implementation of SVM for classification tasks.
+### 4. Convolutional Network
+- **Description:** Implementation of CNN for classification tasks.
 - **Files:**
-  - `svm_classification.ipynb`
-
-### 5. k-Nearest Neighbors (k-NN)
-- **Description:** Implementation of k-NN algorithm for classification.
-- **Files:**
-  - `knn_classification.ipynb`
-
-### 6. Random Forest
-- **Description:** Ensemble learning method using random forests for classification and regression.
-- **Files:**
-  - `random_forest.ipynb`
-
-### 7. Gradient Boosting
-- **Description:** Gradient boosting machines for improving model accuracy.
-- **Files:**
-  - `gradient_boosting.ipynb`
+  - `kaggle_tensorflow_classification.ipynb`
+  - `medicinal_plant_transfer_learning_vgg16.ipynb`
+  - `tranfer_with_cifar.ipynb`
 
 ## Getting Started
 
@@ -53,3 +45,7 @@ This directory contains various projects and examples related to supervised lear
 1. Clone the repository:
    ```sh
    git clone https://github.com/sanepunk/ML.git
+   cd ML
+   python -m venv .venv
+   .\venv\Scripts\Activate
+   pip install -r requirements.txt
