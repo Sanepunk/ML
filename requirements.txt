@@ -1,0 +1,23 @@
+# Core machine learning library
+tensorflow==2.12.0
+
+# Plotting and visualization library
+matplotlib==3.7.1
+
+# Data manipulation and analysis library
+pandas==1.5.3
+
+# Fundamental package for scientific computing
+numpy==1.24.2
+
+# Machine learning library
+scikit-learn==1.2.2
+
+# Jupyter Notebook and Lab interface
+jupyterlab==3.6.3
+
+# Kernel for Jupyter
+ipykernel==6.21.3
+
+# Machine learning and numerical computing library
+jax==0.4.8
