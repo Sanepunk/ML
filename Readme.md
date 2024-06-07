@@ -1,84 +1,55 @@
-<!-- Your title -->
-## Hi, I'm Ojas Patil, a machine learning enthusiast.
+# Supervised Learning
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+This directory contains various projects and examples related to supervised learning algorithms. Each project is implemented in Python and uses Jupyter notebooks for code execution and explanation.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sanepunk)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-patil-exe/)
+## Contents
 
+### 1. Linear Regression
+- **Description:** Implementation of simple and multiple linear regression models.
+- **Files:**
+  - `linear_regression_simple.ipynb`
+  - `linear_regression_multiple.ipynb`
 
-&nbsp;
+### 2. Logistic Regression
+- **Description:** Binary classification using logistic regression.
+- **Files:**
+  - `logistic_regression.ipynb`
 
-<!-- Talking about you -->
-**Talking about Personal Stuff:**
+### 3. Decision Trees
+- **Description:** Building and visualizing decision tree models for classification.
+- **Files:**
+  - `decision_tree_classification.ipynb`
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### 4. Support Vector Machines (SVM)
+- **Description:** Implementation of SVM for classification tasks.
+- **Files:**
+  - `svm_classification.ipynb`
 
-- 👨🏽‍💻 I’m working on [Supervised Deep Learning](https://github.com/Sanepunk/ML);
-- 🌱 I’m currently working on Deep-CNN; 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm a sophomore in the Information Technology Department;
-<!-- 📫 How to reach me: murillo_comino@hotmail.com;-->
+### 5. k-Nearest Neighbors (k-NN)
+- **Description:** Implementation of k-NN algorithm for classification.
+- **Files:**
+  - `knn_classification.ipynb`
 
-**Languages and Tools:** 
+### 6. Random Forest
+- **Description:** Ensemble learning method using random forests for classification and regression.
+- **Files:**
+  - `random_forest.ipynb`
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
+### 7. Gradient Boosting
+- **Description:** Gradient boosting machines for improving model accuracy.
+- **Files:**
+  - `gradient_boosting.ipynb`
 
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
+## Getting Started
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
-  <br />
-  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/c-1.svg"></code>
-  <br />
-  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-  <br />
-  <code><img width="15%" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
-</p>
+### Prerequisites
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+- Python 3.x
+- Jupyter Notebook
+- Required Python libraries (listed in `requirements.txt`)
 
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
+### Installation
 
-## Support me
- Your support, if you have it 
-I created these images, feel free to use them.
-
-<p align="center">
-  <a href="https://www.patreon.com/onimur" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
-
----
-
- Its main projects 
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
-</p>
-
- This readme was created by Murillo Comino - https://github.com/onimur -->
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/sanepunk/ML.git
